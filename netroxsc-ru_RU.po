@@ -1,0 +1,209 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-06 19:18+0300\n"
+"PO-Revision-Date: 2016-12-06 19:22+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+#: inc/settings_form.php:113
+msgid "Apply settings"
+msgstr "Применить настройки"
+
+#: inc/login_form.php:85
+msgid "Base domain"
+msgstr "Базовый домен"
+
+#: inc/login_form.php:89
+msgid "Base domain of your site without protocol and path"
+msgstr ""
+"Базовый домен вашего сайта без указания протокола и пути. Например, netroxsc."
+"com"
+
+#: inc/invalid.php:11
+msgid "Cancel this registration"
+msgstr "Отменить эту регистрацию"
+
+#: inc/settings_form.php:120
+msgid "Chat with visitors"
+msgstr "Общение с посетителями"
+
+#: inc/login_form.php:119
+msgid "Confirm"
+msgstr "Пароль еще раз"
+
+#: inc/login_form.php:114
+msgid "Create a secure password"
+msgstr "Придумайте надежный пароль"
+
+#: inc/login_form.php:39 inc/login_form.php:76
+msgid "Email"
+msgstr "Email"
+
+#: inc/settings_form.php:45
+msgid "Enable on site"
+msgstr "Включить на сайте"
+
+#: netroxsc.php:347 netroxsc.php:398
+msgid "Error occured while trying to connect to Netrox SC servers"
+msgstr "Произошла ошибка при попытке подключения к серверам Netrox SC"
+
+#: inc/login_form.php:23
+msgid ""
+"Error occured while trying to connect to Netrox SC servers. Please try again "
+"later."
+msgstr ""
+"Произошла ошибка при попытке подключения к серверам Netrox SC. Попробуйте "
+"еще раз позднее"
+
+#: inc/login_form.php:67
+msgid "Fill in the following form to start using Netrox."
+msgstr "Заполните эту форму для того, чтобы начать использовать Netrox"
+
+#: inc/login_form.php:94
+msgid "First name"
+msgstr "Имя"
+
+#: inc/login_form.php:130
+msgid "I already have a Netrox SC account"
+msgstr "У меня уже есть учетная запись Netrox SC"
+
+#: inc/login_form.php:57
+msgid "I don't have a Netrox SC account yet"
+msgstr "У меня еще нет учетной записи Netrox SC"
+
+#: inc/invalid.php:10
+msgid "I followed the link from email message. Check again!"
+msgstr "Я прошел по ссылке в письме"
+
+#: inc/login_form.php:60
+msgid "I forgot my password"
+msgstr "Я забыл пароль"
+
+#: inc/login_form.php:29
+msgid ""
+"If you don't have an account yet please click the corresponding button at "
+"the bottom of the form."
+msgstr ""
+"Если у вас еще пока нет учетной записи в системе Netrox, пожалуйста, нажмите "
+"соответствующую кнопку внизу формы."
+
+#: inc/login_form.php:30 inc/login_form.php:68
+msgid ""
+"If you face any difficulties please ask our support team for help in live "
+"chat at <a href=\"##URL##\">##URL##</a>"
+msgstr ""
+"Если вы столкнулись со сложностями, обратитесь, пожалуйста, за помощью к "
+"нашей службе поддержки через чат на <a href=\"##URL##\">##URL##</a>"
+
+#: inc/settings_form.php:12
+msgid "It seems that there are no websites attached to your Netrox SC account."
+msgstr "Похоже к вашей учетной записи Netrox не подключено ни одного сайта"
+
+#: inc/login_form.php:102
+msgid "Last name"
+msgstr "Фамилия"
+
+#: inc/settings_form.php:6
+msgid "Live chat settings"
+msgstr "Настройки чата"
+
+#: inc/login_form.php:56
+msgid "Log In"
+msgstr "Войти"
+
+#: inc/settings_form.php:114
+msgid "Log in as different user"
+msgstr "Войти под другим пользователем"
+
+#: inc/login_form.php:28
+msgid "Login as a Netrox SC user to bind your live chat account to this site."
+msgstr ""
+"Выполните вход как пользователь системы Netrox SC для того, чтобы подключить "
+"чат к вашему сайту"
+
+#: inc/login_form.php:80
+msgid "Login for future Netrox SC account administrator"
+msgstr "Имя пользователя будущего администратора аккаунта"
+
+#: netroxsc.php:33
+msgid "Netrox SC"
+msgstr "Netrox SC"
+
+#: netroxsc.php:32
+msgid "Netrox SC Live Chat"
+msgstr "Онлайн-консультант Netrox SC"
+
+#: inc/invalid.php:3 inc/login_form.php:16 inc/settings_form.php:3
+msgid "Netrox SC Live Chat Settings"
+msgstr "Настройки онлайн-консультанта Netrox SC"
+
+#: inc/login_form.php:47 inc/login_form.php:110
+msgid "Password"
+msgstr "Пароль"
+
+#: inc/settings_form.php:14
+msgid ""
+"Please add the website at the <a href=\"##URL##\">Account - General</a> "
+"section of Netrox SC web interface."
+msgstr ""
+"Пожалуйста, добавьте сайт в разделе <a href=\"##URL##\">Аккаунт - Основное</"
+"a> веб- интерфейса Netrox SC"
+
+#: inc/invalid.php:5
+msgid ""
+"Please check your mailbox. We have sent you the activation link. Follow it "
+"and then click the button below or simply reload this page."
+msgstr ""
+"Проверьте, пожалуйста, вашу почту. Мы отправили вам письмо со ссылкой для "
+"активации учетной записи. После того, как вы пройдете по ссылке в письме, "
+"вернитесь на эту страницу и нажмите кнопку ниже."
+
+#: inc/settings_form.php:123
+msgid "Proceed to the chat zone"
+msgstr "Перейти к общению"
+
+#: inc/login_form.php:129
+msgid "Sign Up"
+msgstr "Зарегистрироваться"
+
+#: inc/login_form.php:19
+msgid "Sorry, couldn't authenticate the user. Please login."
+msgstr "Не удалось авторизовать пользователя. Пожалуйста, выполните вход"
+
+#: inc/settings_form.php:37 inc/settings_form.php:41
+msgid "Status"
+msgstr "Статус"
+
+#: inc/login_form.php:123
+msgid "Type in the password once again"
+msgstr "Введите пароль еще раз"
+
+#: inc/settings_form.php:121
+msgid ""
+"Visitor communication is carried out via the Netrox SC web-interface. The "
+"button will open the chat zone in a new tab."
+msgstr ""
+"Общение с посетителями сайта осуществляется через веб-интерфейс Netrox SC. "
+"После того, как вы нажмете на кнопку, откроется новое окно"
+
+#: inc/settings_form.php:61
+msgid "Website"
+msgstr "Сайт"
+
+#: inc/settings_form.php:93
+msgid "Widget"
+msgstr "Виджет"
